@@ -1,4 +1,4 @@
 # karthikdemo1
 This is my first project
 <br>
-author - Gundu karthik
+author - Gundu is a hero
